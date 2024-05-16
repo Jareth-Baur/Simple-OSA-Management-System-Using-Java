@@ -1,0 +1,1 @@
+typeSearchIndex = [{"p":"com.classes","l":"AddSampleData"},{"l":"All Classes and Interfaces","u":"allclasses-index.html"},{"p":"com.classes","l":"DatabaseAccess"},{"p":"com.frames","l":"Home"},{"p":"com.frames","l":"Login"},{"p":"com.main","l":"Main"},{"p":"com.frames","l":"MainFrame"}];updateSearchResults();
